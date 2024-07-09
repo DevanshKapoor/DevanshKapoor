@@ -18,12 +18,3 @@ Myself Devansh Kapoor, a passionate software developer with a keen interest in d
 - **Email:** kapoordevansh15@gmail.com
 - **LinkedIn:** [devansh-kapoor](https://www.linkedin.com/in/devansh-kapoor-819b29256/)
 
-## 🚀 Current Goals
-- Enhance my skills in deep learning and front end development.
-- Contribute to open-source projects.
-- Collaborate with other developers and researchers on exciting projects.
-
-## 🧠 Currently Learning
-- Advanced deep learning techniques and architectures.
-- Full-stack web development with React and Node.js.
-- Data visualization and analysis with Python.
