@@ -2,15 +2,15 @@ Here's a sample README file for your GitHub profile:
 
 ---
 
-# Hi there 👋
+# Hello! 👋
 
-My name is Devansh Kapoor, a passionate software developer with a keen interest in deep learning and machine learning along with front end web development in raect. I recently completed a deep learning research internship at IIT Mandi, and I'm always excited to take on new challenges and contribute to innovative projects.
+Myself Devansh Kapoor, a passionate software developer with a keen interest in deep learning and machine learning along with front end web development in raect. I recently completed a deep learning research internship at IIT Mandi, and I'm always excited to take on new challenges and contribute to innovative projects.
 
 ## 🔭 Projects
 
-### [Project 1: Deep Learning Model for Image Classification](https://github.com/yourusername/project1)
-- **Description:** Developed a deep learning model to classify images using a convolutional neural network (CNN). Achieved an accuracy of 95% on the CIFAR-10 dataset.
-- **Tech Stack:** Python, TensorFlow, Keras, NumPy, Matplotlib
+### [Project 1: WatchWise - Movie Recemmoonder System]([https://github.com/yourusername/project1](https://github.com/DevanshKapoor/WatchWise-content-based-.git))
+- **Description:** This project implements a content-based movie recommender system using movie tags and a neural network. The system is designed to recommend movies based on their similarity in terms of tags associated with them. It is based on TMDB 5000 Movie Dataset.
+- **Tech Stack:** Python, Pytorch, Pandas
 
 
 ## 🌱 Tech Stack
