@@ -8,7 +8,7 @@ Myself Devansh Kapoor, a passionate software developer with a keen interest in d
 
 ## 🔭 Projects
 
-### [Project 1: WatchWise - Movie Recemmoonder System]([https://github.com/yourusername/project1](https://github.com/DevanshKapoor/WatchWise-content-based-.git))
+### [Project 1: WatchWise - Movie Recemmoonder System](https://github.com/yourusername/project1](https://github.com/DevanshKapoor/WatchWise-content-based-.git)
 - **Description:** This project implements a content-based movie recommender system using movie tags and a neural network. The system is designed to recommend movies based on their similarity in terms of tags associated with them. It is based on TMDB 5000 Movie Dataset.
 - **Tech Stack:** Python, Pytorch, Pandas
 
@@ -20,7 +20,7 @@ Myself Devansh Kapoor, a passionate software developer with a keen interest in d
 
 ## 📫 How to reach me
 - **Email:** kapoordevansh15@gmail.com
-- **LinkedIn:** [devansh-kapoor]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/devansh-kapoor-819b29256/))
+- **LinkedIn:** [devansh-kapoor](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/devansh-kapoor-819b29256/)
 
 ## 🚀 Current Goals
 - Enhance my skills in deep learning and front end development.
@@ -31,3 +31,4 @@ Myself Devansh Kapoor, a passionate software developer with a keen interest in d
 - Advanced deep learning techniques and architectures.
 - Full-stack web development with React and Node.js.
 - Data visualization and analysis with Python.
+
