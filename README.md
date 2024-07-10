@@ -17,4 +17,5 @@ Myself Devansh Kapoor, a passionate software developer with a keen interest in d
 ## 📫 How to reach me
 - **Email:** kapoordevansh15@gmail.com
 - **LinkedIn:** [devansh-kapoor](https://www.linkedin.com/in/devansh-kapoor-819b29256/)
+- **Kaggle:** [KapoorDevansh](https://www.kaggle.com/kapoordevansh)
 
