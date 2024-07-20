@@ -30,7 +30,7 @@ Myself Devansh Kapoor, a passionate software developer with a keen interest in d
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevanshKapoor&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevanshKapoor&layout=compact&theme=dark)
 
 
 ## My Stats
