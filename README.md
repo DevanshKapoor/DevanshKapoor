@@ -39,20 +39,9 @@ I love building intelligent systems that solve real-world problems and am always
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevanshKapoor&layout=compact&theme=dark)
 
 ## 📈 My Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevanshKapoor&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevanshKapoor&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - **Email:** kapoordevansh15@gmail.com  
 - **LinkedIn:** [devansh-kapoor](https://www.linkedin.com/in/devansh-kapoor-819b29256/)  
-- **Kaggle:** [KapoorDevansh](https://www.kaggle.com/kapoordevansh)
-
-
-## My Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevanshKapoor&theme=radical)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DevanshKapoor&show_icons=true&theme=radical)
-
-## 📫 How to reach me
-- **Email:** kapoordevansh15@gmail.com
-- **LinkedIn:** [devansh-kapoor](https://www.linkedin.com/in/devansh-kapoor-819b29256/)
 - **Kaggle:** [KapoorDevansh](https://www.kaggle.com/kapoordevansh)
