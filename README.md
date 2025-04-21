@@ -21,6 +21,7 @@ I love building intelligent systems that solve real-world problems and am always
 - **ML/DL:** PyTorch, TensorFlow, Keras, scikit-learn, OpenCV
 - **Web Development:** React, Node.js, Express.js, MongoDB, MySQL, WebSockets, Tailwind CSS
 - **Tools & Platforms:** Git, Docker, Jupyter Notebook, Google Colab, Kaggle, Linux
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -36,9 +37,9 @@ I love building intelligent systems that solve real-world problems and am always
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevanshKapoor&layout=compact&theme=dark)
 
 ## 📈 My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevanshKapoor&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevanshKapoor&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
