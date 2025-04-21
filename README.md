@@ -40,6 +40,7 @@ I love building intelligent systems that solve real-world problems and am always
 
 ## 📈 My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevanshKapoor&layout=compact&theme=dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevanshKapoor&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
