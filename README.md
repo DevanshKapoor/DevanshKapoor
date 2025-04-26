@@ -2,7 +2,7 @@
 I'm **Devansh Kapoor**, a passionate Computer Science undergrad at Thapar Institute, specializing in **deep learning**, **natural language processing**, and **full-stack web development**. I'm currently a **Research Intern under Samsung PRISM**, working on optimizing Large Language Models (LLMs). Previously, I completed a deep learning research internship at **IIT Mandi**, focusing on EEG-based image reconstruction.
 I love building intelligent systems that solve real-world problems and am always open to exciting challenges and collaborations.
 
-## 🔭 Projects
+## 🔭 Impactful Projects
 ### [FarmSaathi – AI-powered Agricultural Assistant](https://github.com/DevanshKapoor/FarmSaathi)
 - **Description:** Voice-enabled platform for multilingual crop recommendations and disease detection using deep learning.
 - **Tech Stack:** Python, PyTorch, TensorFlow, Keras, React, Node.js, MongoDB
