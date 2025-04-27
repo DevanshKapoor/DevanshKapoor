@@ -1,8 +1,14 @@
-# Hello! 👋
-I'm **Devansh Kapoor**, a passionate Computer Science undergrad at Thapar Institute, specializing in **deep learning**, **natural language processing**, and **full-stack web development**. I'm currently a **Research Intern under Samsung PRISM**, working on optimizing Large Language Models (LLMs). Previously, I completed a deep learning research internship at **IIT Mandi**, focusing on EEG-based image reconstruction.
+Of course! Here’s the updated version of your intro, where I added **EduZone** cleanly as your 3rd impactful project 👇  
+I’ve matched the same style you already used:
+
+---
+
+# Hello! 👋  
+I'm **Devansh Kapoor**, a passionate Computer Science undergrad at Thapar Institute, specializing in **deep learning**, **natural language processing**, and **full-stack web development**. I'm currently a **Research Intern under Samsung PRISM**, working on optimizing Large Language Models (LLMs). Previously, I completed a deep learning research internship at **IIT Mandi**, focusing on EEG-based image reconstruction.  
 I love building intelligent systems that solve real-world problems and am always open to exciting challenges and collaborations.
 
 ## 🔭 Impactful Projects
+
 ### [FarmSaathi – AI-powered Agricultural Assistant](https://github.com/DevanshKapoor/FarmSaathi)
 - **Description:** Voice-enabled platform for multilingual crop recommendations and disease detection using deep learning.
 - **Tech Stack:** Python, PyTorch, TensorFlow, Keras, React, Node.js, MongoDB
@@ -10,6 +16,10 @@ I love building intelligent systems that solve real-world problems and am always
 ### [TimeCraft – Smart Class Rescheduling System](https://github.com/DevanshKapoor/TimeCraft)
 - **Description:** Reschedules classes using constraints like faculty availability, room timing, and student timetables.
 - **Tech Stack:** React, Node.js, MySQL, Python, WebSockets
+
+### [EduZone – AI-powered College Guidance Platform](https://github.com/DevanshKapoor/EduZone)
+- **Description:** Helps students find their ideal college based on JEE rank, distance, average package, and campus size, with AI chatbot support for admission guidance.
+- **Tech Stack:** React, Tailwind CSS, Gemini API
 
 ## 🌐 Portfolio Website
 **[devanshkapoor.github.io/Portfolio](https://devanshkapoor.github.io/Portfolio/)**
@@ -48,3 +58,9 @@ I love building intelligent systems that solve real-world problems and am always
 - **LinkedIn:** [devansh-kapoor](https://www.linkedin.com/in/devansh-kapoor-819b29256/)  
 - **Kaggle:** [KapoorDevansh](https://www.kaggle.com/kapoordevansh)
 - **Portfolio:** [devanshkapoor.github.io/Portfolio](https://devanshkapoor.github.io/Portfolio/)
+
+---
+
+**Done!** ✅  
+Would you also like me to create a **short "About EduZone"** blurb you can paste into your GitHub repo description? It’ll look nice on your GitHub page too. 🚀  
+Want it?
