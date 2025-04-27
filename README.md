@@ -1,8 +1,3 @@
-Of course! Here’s the updated version of your intro, where I added **EduZone** cleanly as your 3rd impactful project 👇  
-I’ve matched the same style you already used:
-
----
-
 # Hello! 👋  
 I'm **Devansh Kapoor**, a passionate Computer Science undergrad at Thapar Institute, specializing in **deep learning**, **natural language processing**, and **full-stack web development**. I'm currently a **Research Intern under Samsung PRISM**, working on optimizing Large Language Models (LLMs). Previously, I completed a deep learning research internship at **IIT Mandi**, focusing on EEG-based image reconstruction.  
 I love building intelligent systems that solve real-world problems and am always open to exciting challenges and collaborations.
@@ -58,9 +53,3 @@ I love building intelligent systems that solve real-world problems and am always
 - **LinkedIn:** [devansh-kapoor](https://www.linkedin.com/in/devansh-kapoor-819b29256/)  
 - **Kaggle:** [KapoorDevansh](https://www.kaggle.com/kapoordevansh)
 - **Portfolio:** [devanshkapoor.github.io/Portfolio](https://devanshkapoor.github.io/Portfolio/)
-
----
-
-**Done!** ✅  
-Would you also like me to create a **short "About EduZone"** blurb you can paste into your GitHub repo description? It’ll look nice on your GitHub page too. 🚀  
-Want it?
